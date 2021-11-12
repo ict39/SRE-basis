@@ -2,14 +2,14 @@
 
 ## 目錄
 
-* [開機流程]()  
+* [開機流程](https://github.com/ict39/SRE-basis/blob/main/Startup.md)  
 
-* [工作環境]()  
+* [工作環境](https://github.com/ict39/SRE-basis/blob/main/env.md)  
 
-* [File System]()  
+* [File System](https://github.com/ict39/SRE-basis/blob/main/FS.md)  
 
-* [Process]()  
+* [Process](https://github.com/ict39/SRE-basis/blob/main/Process.md)  
  
-* [Network]()  
+* [Network](https://github.com/ict39/SRE-basis/blob/main/Network.md)  
 
 ###### tags: `SRE-basis`
