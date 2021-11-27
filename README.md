@@ -6,7 +6,7 @@
 
 * [工作環境](https://github.com/ict39/SRE-basis/blob/main/env.md)  
 
-* [File System](https://github.com/ict39/SRE-basis/blob/main/FS.md)  
+* [File System](https://github.com/ict39/SRE-basis/blob/main/FileSystem.md)  
 
 * [Process](https://github.com/ict39/SRE-basis/blob/main/Process.md)  
  
