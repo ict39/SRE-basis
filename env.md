@@ -5,6 +5,7 @@
 :arrow_down:  
 
 * /etc/profile  
+各式程式功能可放在這，任何使用者只要登入就會執行此檔案  
 存放 alias、func  
 顯示 ip
 
