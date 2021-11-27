@@ -84,5 +84,6 @@ $ sudo kill -9 $pid
 若是駭客攻入process，很有可能藉著system library進入kernel進行攻擊  
 所以使用seccomp做為第一層防守，限制systen library的使用，當有需要時才給用  
 
+:arrow_double_up: [MENU](https://github.com/ict39/SRE-basis/blob/main/README.md)
 
 ###### tags: `SRE-basis`
